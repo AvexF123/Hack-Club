@@ -1,0 +1,38 @@
+/*
+  Use the following to include this css file
+  <link rel="stylesheet" href="styles1.css" />
+*/
+
+header {
+  padding: 25px;
+}
+.title {
+  color: DarkBlue;
+}
+p {
+  color: Black;
+}
+img {
+  width: 200px;
+  height: 300px;
+  border-radius: 15px;
+  object-fit: cover;
+}
+img:hover{
+  box-shadow: 0 0 20px Black;
+}
+section#personal-info {
+  border: 2px solid LightBlue;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px 0;
+  background-color: #f0f8ff;
+}
+body {
+  font-family: 'Manrope', sans-serif;
+}
+.manrope-<uniquifier> {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
