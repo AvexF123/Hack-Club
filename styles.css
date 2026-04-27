@@ -1,0 +1,16 @@
+header {
+  padding: 25px;
+}
+.title {
+  color: DarkBlue;
+}
+body {
+  background: LightBlue;
+  font-family: 'Manrope', sans-serif;
+}
+.manrope-<uniquifier> {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
